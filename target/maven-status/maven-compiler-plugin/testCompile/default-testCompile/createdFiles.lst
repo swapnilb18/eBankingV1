@@ -1,0 +1,10 @@
+com\swap\PageObjects\HomePage.class
+com\swap\TestCases\BaseClass.class
+com\swap\TestCases\TC_NewCustomer_003.class
+com\swap\PageObjects\LoginPage.class
+com\swap\TestCases\TC_LoginTest_001.class
+com\swap\Utilities\ReadConfig.class
+com\swap\Utilities\XLUtils.class
+com\swap\TestCases\TC_LoginDDT_002.class
+com\swap\PageObjects\NewCustomer.class
+com\swap\Utilities\Reporting.class
